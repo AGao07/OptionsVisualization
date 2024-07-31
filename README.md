@@ -1,10 +1,14 @@
 Main.py has the testable code
 
 You need:
+
 St Louis Fed bank API Key
+
 ---It's my personal API key from ST Louis, but it's a formality to just add email to get.
 ---I'll share mine in the Canvas comment section.
+
 Finviz API key
+
 Go to elite.finviz.com
 -> On top left, press account name
 -> On dropdown, press settings
